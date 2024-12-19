@@ -37,7 +37,7 @@ for message in st.session_state.messages:
 
 
 
-if prompt := st.chat_input("Masukkan Perintah"):
+if prompt := st.chat_input("Enter a prompt for Fishbot "):
     # Add user message to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
     # Display user message in chat message container
