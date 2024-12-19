@@ -4,7 +4,8 @@ from IPython.display import Markdown, clear_output, display
 import time
 
 
-st.title("🐠FishBot X :rainbow[Gemini]✨")
+st.title("FishBot X :rainbow[Gemini]🐠✨")
+st.subheader("How can I help you?")
 
 
 # Koneksi API Gemini
