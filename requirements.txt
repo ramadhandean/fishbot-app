@@ -1,6 +1,7 @@
 streamlit
 google.generativeai
-time
-Markdown
+ipython
+markdown
 clear_output 
 display
+time
