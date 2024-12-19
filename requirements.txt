@@ -1,7 +1,4 @@
 streamlit
-google.generativeai
+google-generativeai
 ipython
 markdown
-clear_output 
-display
-time
